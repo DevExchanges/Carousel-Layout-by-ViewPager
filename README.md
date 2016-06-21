@@ -2,4 +2,4 @@
 Building a carousel layout by ViewPager in Android.
 <br/>
 <br/>
-![alt tag](http://i.imgur.com/YlmlH06.gif)
+DEMO IMAGE: http://i.imgur.com/YlmlH06.gif
